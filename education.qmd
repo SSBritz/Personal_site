@@ -4,19 +4,18 @@ title: "Education"
 
 ## Degrees
 
-| Year | Degree | Institution |
-|:-----------------------|:-----------------------|:-----------------------|
-| XXX | PhD | University, Country |
-| XXX | MSc  | University, Country |
-| XXX | XXX | University, Country |
+| Year | Degree | Institution         |
+|:-----|:-------|:--------------------|
+| XXX  | PhD    | University, Country |
+| XXX  | MSc    | University, Country |
+| XXX  | XXX    | University, Country |
 
 ## Positions
 
-| Year | Position | Institution |
-|:-----------------------|:-----------------------|:-----------------------|
-| XXX - current | Level | Institution |
-| XXX - XXX | Level | Institution |
-
+| Year          | Position | Institution |
+|:--------------|:---------|:------------|
+| XXX - current | Level    | Institution |
+| XXX - XXX     | Level    | Institution |
 
 ## Awards
 

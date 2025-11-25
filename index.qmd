@@ -1,24 +1,24 @@
 ---
-title: "Initial Surname"
+title: "Stefan Streicher Britz"
 comments: false
-image: profile.png
+image: profile.png #Just replace with mine
 about:
   id: hero-heading
-  template: jolla
+  template: jolla #Try different templates
   image: profile.png
   image-width: 15em
   image-shape: round
   links:
     - icon: envelope
-      href: mailto:surname@web.ac.za
+      href: mailto:steviebritz@gmail.com
     - icon: github
-      href: https://github.com/
+      href: https://github.com/SSBritz
     - text: scholar
-      href: https://scholar.google.com/
+      href: https://scholar.google.com/citations?user=jYhVSTwAAAAJ&hl=en&oi=ao
     - text: orcid
-      href: https://orcid.org/
-    - icon: linkedin
-      href: https://www.linkedin.com/
+      href: https://orcid.org/0000-0002-9244-1684
+    #- icon: linkedin
+    #  href: https://www.linkedin.com/
 ---
 
 ::: {#hero-heading}
