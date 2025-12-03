@@ -18,16 +18,17 @@ talks <- talks |>
   mutate(titlelink = ifelse(is.na(Link), Title, glue("[{Title}]({Link})"))) 
 talks |>
   arrange(desc(Date)) |>
-  select(Date, titlelink, Event, Location, Details, Author) |>
+  select(Date, titlelink, Event, Location, Presentation, Contribution) |>
   gt() |>
     gt::fmt_markdown(columns = titlelink) |>
     cols_label(titlelink = "Title") |> 
     gt::cols_width(
       Date ~ px(100),
       titlelink ~ px(400),
+      Event ~ px(400),
       Location ~ px(250),
-      Details ~ px(100),
-      Author ~ px(100)) |>
+      Presentation ~ px(100),
+      Contribution ~ px(100)) |>
   cols_align("left")
 ```
 
@@ -47,16 +48,17 @@ talks <- talks |>
   mutate(titlelink = ifelse(is.na(Link), Title, glue("[{Title}]({Link})"))) 
 talks |>
   arrange(desc(Date)) |>
-  select(Date, titlelink, Event, Location, Details, Author) |>
+  select(Date, titlelink, Event, Location, Presentation, Contribution) |>
   gt() |>
     gt::fmt_markdown(columns = titlelink) |>
     cols_label(titlelink = "Title") |> 
     gt::cols_width(
       Date ~ px(100),
       titlelink ~ px(400),
+      Event ~ px(400),
       Location ~ px(250),
-      Details ~ px(100),
-      Author ~ px(100)) |> 
+      Presentation ~ px(100),
+      Contribution ~ px(100)) |>
   cols_align("left")
 ```
 
@@ -76,14 +78,15 @@ talks <- talks |>
   mutate(titlelink = ifelse(is.na(Link), Title, glue("[{Title}]({Link})"))) 
 talks |>
   arrange(desc(Date)) |>
-  select(Date, titlelink, Event, Location, Details) |>
+  select(Date, titlelink, Event, Location, Presentation) |>
   gt() |>
     gt::fmt_markdown(columns = titlelink) |>
     cols_label(titlelink = "Title") |> 
     gt::cols_width(
       Date ~ px(100),
       titlelink ~ px(400),
+      Event ~ px(400),
       Location ~ px(250),
-      Details ~ px(100)) |>
+      Presentation ~ px(100)) |>
   cols_align("left")
 ```
