@@ -15,12 +15,14 @@ website:
         href: index.qmd
       - text: Education
         href: education.qmd
+      - text: Supervision
+        href: supervision.qmd
       - text: Talks
         href: talks.qmd  
-      - text: Blog posts
-        href: blog.qmd
-      #- text: Publications
-      #  href: publications.qmd  
+      # - text: Blog posts
+      #   href: blog.qmd
+      # - text: Publications
+      #  href: publications.qmd
     right:
       - icon: github
         href: https://github.com/      
@@ -28,7 +30,7 @@ website:
 body-footer: | 
   Copyright:  Stefan Streicher Britz, 2025
 
-date-format: "November 2025" #Try Sys.date() maybe?
+date-format: "December 2025" #Try Sys.date() maybe?
 
 format:
   html:

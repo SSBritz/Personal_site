@@ -46,28 +46,28 @@
     "href": "education.html",
     "title": "Education",
     "section": "",
-    "text": "Year\nDegree\nInstitution\n\n\n\n\nXXX\nPhD\nUniversity, Country\n\n\nXXX\nMSc\nUniversity, Country\n\n\nXXX\nXXX\nUniversity, Country"
+    "text": "Year\nDegree\nInstitution\n\n\n\n\nIn Progress\nPhD in Statistics\nUniversity of Cape Town, South Africa\n\n\n2013\nMSc in Mathematical Statistics (with distinction)\nUniversity of the Free State, South Africa\n\n\n2010\nBSc Hons. in Mathematical Statistics (with distinction)\nUniversity of the Free State, South Africa\n\n\n2009\nBSc Hons. Actuarial Science (with distinction)\nUniversity of the Free State, South Africa"
   },
   {
     "objectID": "education.html#degrees",
     "href": "education.html#degrees",
     "title": "Education",
     "section": "",
-    "text": "Year\nDegree\nInstitution\n\n\n\n\nXXX\nPhD\nUniversity, Country\n\n\nXXX\nMSc\nUniversity, Country\n\n\nXXX\nXXX\nUniversity, Country"
+    "text": "Year\nDegree\nInstitution\n\n\n\n\nIn Progress\nPhD in Statistics\nUniversity of Cape Town, South Africa\n\n\n2013\nMSc in Mathematical Statistics (with distinction)\nUniversity of the Free State, South Africa\n\n\n2010\nBSc Hons. in Mathematical Statistics (with distinction)\nUniversity of the Free State, South Africa\n\n\n2009\nBSc Hons. Actuarial Science (with distinction)\nUniversity of the Free State, South Africa"
   },
   {
     "objectID": "education.html#positions",
     "href": "education.html#positions",
     "title": "Education",
     "section": "Positions",
-    "text": "Positions\n\n\n\nYear\nPosition\nInstitution\n\n\n\n\nXXX - current\nLevel\nInstitution\n\n\nXXX - XXX\nLevel\nInstitution"
+    "text": "Positions\n\n\n\n\n\n\n\n\nYear\nPosition\nInstitution\n\n\n\n\n2014 - current\nLecturer\nUniversity of Cape Town\n\n\n2010 - 2013\nAssistant Lecturer & Research Assistant\nUniversity of the Free State"
   },
   {
     "objectID": "education.html#awards",
     "href": "education.html#awards",
     "title": "Education",
     "section": "Awards",
-    "text": "Awards\n\nRecipient of the MDAG best website award 2025."
+    "text": "Awards\n\nApereo Teaching and Learning Award (ATLAS), 2016\nThis international award was received for the entry: Teaching Introductory Statistics using a Blended Mode of Instruction at the University of Cape Town.\nUCT Science Faculty Emerging Teacher Award, 2020\nThis faculty prize was awarded biennially to one recipient.\nSASA Honours Project Competition, 2018 –- Supervision of first place winner\nJames Lloyd for his entry: Classification of Galaxy Morphologies using Convolutional Neural Networks.\nSASA Honours Project Competition, 2022 –- Supervision of second place winner\nMaxine Norrie & Daniel Singer for their entry: Engineering Features for Tennis Match Outcome Prediction in a Statistical Learning Framework."
   },
   {
     "objectID": "blog.html",
@@ -96,5 +96,33 @@
     "title": "Publications",
     "section": "",
     "text": "title\nyear\njournal\n\n\n\n\nBiplot visualisations of the differences between multiple imputation techniques for simulated categorical data\n2025\nDiscover Data\n\n\nOn subset multiple correspondence analysis for incomplete multivariate categorical data\n2024\nCommunications in Statistics - Simulation and Computation\n\n\nGPAbin: unifying visualizations of multiple imputations for missing values\n2023\nCommunications in Statistics - Simulation and Computation\n\n\nComments: Development of an early career academic supervisor in Statistics - a discussion on a guiding rubric\n2022\nORION\n\n\nGPAbin: unifying visualizations of multiple imputations for missing values\n2021\nCommunications in Statistics - Simulation and Computation\n\n\nGPAbin: unifying visualizations of multiple imputations for missing values\n2021\nCommunications in Statistics: Simulation and Computation\n\n\nA Simulation Study for the Identification of Missing Data Mechanisms Using Visualisation\n2021\nData Analysis and Rationality in a Complex World. IFCS 2019. Studies in Classification, Data Analysis, and Knowledge Organization\n\n\nA Simulation Study for the Identification of Missing Data Mechanisms Using Visualisation\n2021\nStudies in Classification, Data Analysis, and Knowledge Organization\n\n\nVisualising Incomplete Data with Subset Multiple Correspondence Analysis\n2018\nArchives of Data Science, Series A (Online First)\n\n\nInvestigating the Performance of a Variation of Multiple Correspondence Analysis for Multiple Imputation in Categorical Data Sets\n2017\nJournal of Classification\n\n\nInvestigating the Performance of a Variation of Multiple Correspondence Analysis for Multiple Imputation in Categorical Data Sets\n2017\nJournal of Classification\n\n\n\n\n\n\n\n\nThis list is automatically populated from orcid.org"
+  },
+  {
+    "objectID": "supervision.html",
+    "href": "supervision.html",
+    "title": "Supervision",
+    "section": "",
+    "text": "Student\nTitle\nRole\nStart\nGraduated\n\n\n\n\n1\nTagen de Wet\nDetecting Prey-Capture Events in Animal-Borne Videos using Deep Neural Networks\nMain supervisor\n2023\n2026 [intended]"
+  },
+  {
+    "objectID": "supervision.html#masters-by-dissertation",
+    "href": "supervision.html#masters-by-dissertation",
+    "title": "Supervision",
+    "section": "",
+    "text": "Student\nTitle\nRole\nStart\nGraduated\n\n\n\n\n1\nTagen de Wet\nDetecting Prey-Capture Events in Animal-Borne Videos using Deep Neural Networks\nMain supervisor\n2023\n2026 [intended]"
+  },
+  {
+    "objectID": "supervision.html#masters-by-coursework-minor-dissertations",
+    "href": "supervision.html#masters-by-coursework-minor-dissertations",
+    "title": "Supervision",
+    "section": "Master’s by coursework minor dissertations",
+    "text": "Master’s by coursework minor dissertations\n\n\n\n\n\n\n\n\n\nStudent\nTitle\nRole\nStart\nGraduated\n\n\n\n\n1\nTsapang Mashego\nModeling Insurance Premiums for Risk Assessment using Interpretable Machine Learning\nMain supervisor\n2025\n2026 [intended]\n\n\n2\nDavid Snaddon\nThe Structure and Evolution of the African Air Transport Network\nCo-supervisor\n2024\n2025\n\n\n3\nJonathan Harrison\nCoastal Water Level Prediction: A Comparative Study of Statistical and Machine Learning Techniques for Time Series Forecasting\nCo-supervisor\n2024\n2025\n\n\n4\nPuja Pande\nShining Light on Rooftop Solar Adoption: Using Agent-Based Modelling to Investigate Key Drivers in Cape Town\nMain supervisor\n2024\n2026\n\n\n5\nKelly-Robin Singh\nFeature Engineering for a Gene-Specific Machine Learning Approach to Variant Annotation of PCDH19-Related Epilepsy\nMain supervisor\n2024\n2026 [intended]\n\n\n6\nTanweer Nujjoo\nForecasting Spatial-Temporal Wildfire Susceptibility on the Table Mountain National Park\nCo-supervisor\n2024\n2026 [intended]\n\n\n7\nDaniel Charters\nVirtual Try-on with Garment Extraction using Generative Adversarial Networks\nMain supervisor\n2023\n2024\n\n\n8\nRevesa Moodley\nModelling Highly Imbalanced Credit Card Fraud Detection Data using Statistical Learning\nMain supervisor\n2022\n2023\n\n\n9\nLiam Carew\nApplication of CNN-gcForestCS to Cassava Leaf Image Classification\nMain supervisor\n2022\n2023\n\n\n10\nVictoria Pedlar\nisiZulu Text Generation: Techniques for a Morphologically Rich and Low Resourced Language\nMain supervisor\n2022\n2023\n\n\n11\nYevashan Perumal\nApplying Imputation and Statistical Learning to Predict Gamma-glutamyl Transferase in Underwriting Data\nMain supervisor\n2022\n2023\n\n\n12\nCharles Houston\nAdapting Large-Scale Speaker-Independent Automatic Speech Recognition to Dysarthric Speech\nMain supervisor\n2021\n2022\n\n\n13\nBrenden Taylor\nSmall-Scale Distributed Machine Learning in R\nMain supervisor\n2021\n2022\n\n\n14\nNonhlanhla Luphade\nAutomated classification of Hainan Gibbon call types using deep learning\nCo-supervisor\n2021\n2023\n\n\n15\nArlton Gilbert\nModelling First Innings Totals in T20 Cricket: Applications in the Indian Premier League\nMain supervisor\n2021\n2023\n\n\n16\nDeirdre van den Heever\nApplications of Machine Learning in Apple Crop Yield Prediction\nMain supervisor\n2020\n2021\n\n\n17\nTristan Naidoo\nAutomated quantification of plant water transport network failure using deep learning\nMain supervisor\n2020\n2021\n\n\n18\nDevon Stone\nAn Exploration of Alternative Features in Micro-Finance Loan Default Prediction Models\nMain supervisor\n2019\n2020\n\n\n19\nBlessings Hadebe\nMonitoring and mapping the critically endangered Clanwilliam cedar using remote sensing and deep learning\nMain supervisor\n2019\n2021\n\n\n20\nDean Robertson\nNamed Entity Recognition with Recurrent Neural Networks\nMain supervisor\n2019\n2021\n\n\n21\nVaughn Saben\nVehicle Accident Feature Extraction from a Drone-based Video Feed\nMain supervisor\n2019\n2022"
+  },
+  {
+    "objectID": "supervision.html#honours-research-projects",
+    "href": "supervision.html#honours-research-projects",
+    "title": "Supervision",
+    "section": "Honours research projects",
+    "text": "Honours research projects\n\n\n\n\n\n\n\n\n\nStudent\nTitle\nYear\n\n\n\n\n1\nLaylaa Jorge-Abrahams & Khethani Mugeri\nComparing Louvain and Leiden community detection performance across network topologies\n2025\n\n\n2\nMuneerah Harris\nInvestigating the Effects of Resampling on Highly Imbalanced Data\n2024\n\n\n3\nBilly Mbuyazi & Sanana Mwanawina\nPredictive Modelling For Early Identification of Students at Risk of Delayed Graduation\n2023\n\n\n4\nMaxine Norrie & Daniel Singer\nEngineering Features for Tennis Match Outcome Prediction in a Statistical Learning Framework\n2021\n\n\n5\nBridgette Mgidi & Alex Urban\nFeature Engineering and Supervised Machine Learning Methods in the Prediction of Professional Men's Tennis Matches\n2020\n\n\n6\nAdam Bresler & Luka Elliott\nEngineering Features for Tennis Match Outcome Prediction in a Statistical Learning Framework\n2020\n\n\n7\nJordan Lambis & Gianstelvio Radesich\nSimulation of a One-Day International Cricket Fixture\n2018\n\n\n8\nSean Soutar & Fabio Fehr\nText Content Classification on News Articles\n2018\n\n\n9\nJames Lloyd\nThe Classification of Galaxy Images Using Convolutional Neural Networks\n2017\n\n\n10\nPeter Ivey\nInvestigating the Effect of Batting Proficiency when Predicting the Winner of Curtailed T20I Cricket Matches\n2017\n\n\n11\nTherveshan Moodley\nIncorporating Player Ability in a T20I Predictive Model\n2016"
   }
 ]

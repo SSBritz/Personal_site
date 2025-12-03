@@ -1,0 +1,77 @@
+---
+title: "Supervision"
+---
+
+## Master's by dissertation
+
+```{r}
+#| echo: false
+#| message: false
+library(readr)
+library(dplyr)
+library(gt)
+library(glue)
+library(lubridate)
+sup <- read_csv("supervision.csv")
+sup |> 
+  filter(Type == 'full') |>
+  select(-Type) |>
+  gt(rownames_to_stub = T) |>
+    gt::cols_width(
+      Student ~ px(300),
+      Title ~ px(400),
+      Role ~ px(300),
+      Start ~ px(150),
+      Graduated ~ px(200)) |>
+  cols_align("left")
+```
+
+
+## Master's by coursework minor dissertations
+
+```{r}
+#| echo: false
+#| message: false
+library(readr)
+library(dplyr)
+library(gt)
+library(glue)
+library(lubridate)
+sup <- read_csv("supervision.csv")
+sup |> 
+  filter(Type == 'minor') |>
+  select(-Type) |>
+  gt(rownames_to_stub = T) |>
+    gt::cols_width(
+      Student ~ px(200),
+      Title ~ px(400),
+      Role ~ px(300),
+      Start ~ px(100),
+      Graduated ~ px(200)) |>
+  cols_align("left")
+```
+
+
+
+## Honours research projects
+
+```{r}
+#| echo: false
+#| message: false
+library(readr)
+library(dplyr)
+library(gt)
+library(glue)
+library(lubridate)
+sup <- read_csv("supervision.csv")
+sup |> 
+  filter(Type == 'hons') |>
+  rename(Year = Start) |>
+  select(Student, Title, Year) |>
+  gt(rownames_to_stub = T) |>
+    gt::cols_width(
+      Student ~ px(400),
+      Title ~ px(500),
+      Year ~ px(150)) |>
+  cols_align("left")
+```

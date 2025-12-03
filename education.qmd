@@ -4,19 +4,30 @@ title: "Education"
 
 ## Degrees
 
-| Year | Degree | Institution         |
-|:-----|:-------|:--------------------|
-| XXX  | PhD    | University, Country |
-| XXX  | MSc    | University, Country |
-| XXX  | XXX    | University, Country |
+| Year | Degree | Institution |
+|:-----------------|:-----------------------------------------|:---------------------------|
+| In Progress | PhD in Statistics | University of Cape Town, South Africa |
+| 2013 | MSc in Mathematical Statistics (with distinction) | University of the Free State, South Africa |
+| 2010 | BSc Hons. in Mathematical Statistics (with distinction) | University of the Free State, South Africa |
+| 2009 | BSc Hons. Actuarial Science (with distinction) | University of the Free State, South Africa |
 
 ## Positions
 
-| Year          | Position | Institution |
-|:--------------|:---------|:------------|
-| XXX - current | Level    | Institution |
-| XXX - XXX     | Level    | Institution |
+| Year | Position | Institution |
+|:---------------------------|:------------------|:------------------------|
+| 2014 - current | Lecturer | University of Cape Town |
+| 2010 - 2013 | Assistant Lecturer & Research Assistant | University of the Free State |
 
 ## Awards
 
--   Recipient of the MDAG best website award 2025.
+-   Apereo Teaching and Learning Award (ATLAS), 2016\
+    This international award was received for the entry: *Teaching Introductory Statistics using a Blended Mode of Instruction at the University of Cape Town.*
+
+-   UCT Science Faculty Emerging Teacher Award, 2020\
+    This faculty prize was awarded biennially to one recipient.
+
+-   SASA Honours Project Competition, 2018 –- Supervision of first place winner\
+    James Lloyd for his entry: *Classification of Galaxy Morphologies using Convolutional Neural Networks.*
+
+-   SASA Honours Project Competition, 2022 –- Supervision of second place winner\
+    Maxine Norrie & Daniel Singer for their entry: *Engineering Features for Tennis Match Outcome Prediction in a Statistical Learning Framework.*
