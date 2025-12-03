@@ -1,16 +1,16 @@
 ---
 title: "Stefan Streicher Britz"
 comments: false
-image: profile.png #Just replace with mine
+image: profile.jpg #Just replace with mine
 about:
   id: hero-heading
   template: jolla #Try different templates
-  image: profile.png
+  image: profile.jpg
   image-width: 15em
   image-shape: round
   links:
     - icon: envelope
-      href: mailto:steviebritz@gmail.com
+      href: mailto:stefan.britz@uct.ac.za
     - icon: github
       href: https://github.com/SSBritz
     - text: scholar
@@ -23,9 +23,9 @@ about:
 
 ::: {#hero-heading}
 
-Initial Surname is from the well-known establishment of the University of Academia in the land of Statistics.
+Stefan Streicher Britz is a lecturer in the Department of Statistical Sciences at the University of Cape Town, and will now stop referring to himself in the third-person. These days I predominantly teach postgraduate courses on linear algebra, multivariate analysis theory, supervised/statistical learning and exploratory data analysis. My passion for teaching has not subsided one bit as the years have flown by, and I am perpetually grateful to be in a profession where one gets to positively influence so many lives.
 
-Initial has served on various committees.
+Through postgraduate supervision I have been privileged to be exposed to a wide variety of problems, including machine learning applications to various ecological and environmental problems, agriculture, sports, finance, astronomy, education, insurance, forensics, speech recognition, genetics, and more, as well as fields such as Natural Language Processing, Agent-Based Models and Network Analysis. My current research focus is on applied network analysis.
 
-Initial is an expert in websites in Quarto.
+Outside of academia, my main interests are cricket (watching), music (I've played drums for numerous bands over the years, currently just focused on Streicher), cricket (playing for Pinelands Cricket Club), Haedong Kumdo (in which I hold a second dan black belt), cricket (administration -- vice-chairman of PCC), and just cricket in general.
 :::
