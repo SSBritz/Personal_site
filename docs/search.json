@@ -4,7 +4,7 @@
     "href": "talks.html",
     "title": "Presentations",
     "section": "",
-    "text": "Date\nTitle\nEvent\nLocation\nDetails\nAuthor\n\n\n\n\n2025-11-28\nSASA title\nSASA 2025\nVanderbijlpark at the Riverside Sun Hotel\nContributed talk\nPresenting author"
+    "text": "Date\nTitle\nEvent\nLocation\nDetails\nAuthor\n\n\n\n\n2025-07-07\nFeature Engineering for Tennis Match Outcome Prediction\nDSSV 2025\nSkukuza, South Africa\nInvited talk\nPresenter\n\n\n2019-07-02\nBlended Learning Introductory Statistics - Lessons from Five Years of Application at the University of Cape Town in Context of a Socioeconomically Diverse Student Body\n13th Annual International Conference on Mathematics & Statistics: Teaching, Theory & Applications\nAthens, Greece\nContributed talk\nPresenter\n\n\n2016-05-23\nA Blended Learning Approach to Teaching Introductory Statistics through Sakai\nOpen Apereo Conference\nNew York, US\nInvited talk\nPresenter\n\n\n2015-11-04\nTeaching Introductory Statistics to 1400 students using online Lessons\nSakai Virtual Conference\nOnline\nContributed talk\nPresenter"
   },
   {
     "objectID": "talks.html#conferences",
@@ -88,14 +88,14 @@
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "title\nyear\njournal\n\n\n\n\nBiplot visualisations of the differences between multiple imputation techniques for simulated categorical data\n2025\nDiscover Data\n\n\nOn subset multiple correspondence analysis for incomplete multivariate categorical data\n2024\nCommunications in Statistics - Simulation and Computation\n\n\nGPAbin: unifying visualizations of multiple imputations for missing values\n2023\nCommunications in Statistics - Simulation and Computation\n\n\nComments: Development of an early career academic supervisor in Statistics - a discussion on a guiding rubric\n2022\nORION\n\n\nGPAbin: unifying visualizations of multiple imputations for missing values\n2021\nCommunications in Statistics - Simulation and Computation\n\n\nGPAbin: unifying visualizations of multiple imputations for missing values\n2021\nCommunications in Statistics: Simulation and Computation\n\n\nA Simulation Study for the Identification of Missing Data Mechanisms Using Visualisation\n2021\nData Analysis and Rationality in a Complex World. IFCS 2019. Studies in Classification, Data Analysis, and Knowledge Organization\n\n\nA Simulation Study for the Identification of Missing Data Mechanisms Using Visualisation\n2021\nStudies in Classification, Data Analysis, and Knowledge Organization\n\n\nVisualising Incomplete Data with Subset Multiple Correspondence Analysis\n2018\nArchives of Data Science, Series A (Online First)\n\n\nInvestigating the Performance of a Variation of Multiple Correspondence Analysis for Multiple Imputation in Categorical Data Sets\n2017\nJournal of Classification\n\n\nInvestigating the Performance of a Variation of Multiple Correspondence Analysis for Multiple Imputation in Categorical Data Sets\n2017\nJournal of Classification\n\n\n\n\n\n\n\n\nThis list is automatically populated from orcid.org"
+    "text": "Title\nYear\nJournal\n\n\n\n\nVANTAGE: An open-source application for visualisation, navigation and analysis of video and ancillary time-series data in bio-logging studies\n2025\nMethods in Ecology and Evolution\n\n\nCOVID-19 among adults living with HIV: Correlates of mortality in a general population in a resource-limited setting\n2022\nmedRxiv\n\n\nCOVID-19 among adults living with HIV: correlates of mortality among public sector healthcare users in Western Cape, South Africa\nNA\nJournal of the International AIDS Society\n\n\n\n\n\n\n\n\nThis list is automatically populated from orcid.org"
   },
   {
     "objectID": "publications.html#journal-articles",
     "href": "publications.html#journal-articles",
     "title": "Publications",
     "section": "",
-    "text": "title\nyear\njournal\n\n\n\n\nBiplot visualisations of the differences between multiple imputation techniques for simulated categorical data\n2025\nDiscover Data\n\n\nOn subset multiple correspondence analysis for incomplete multivariate categorical data\n2024\nCommunications in Statistics - Simulation and Computation\n\n\nGPAbin: unifying visualizations of multiple imputations for missing values\n2023\nCommunications in Statistics - Simulation and Computation\n\n\nComments: Development of an early career academic supervisor in Statistics - a discussion on a guiding rubric\n2022\nORION\n\n\nGPAbin: unifying visualizations of multiple imputations for missing values\n2021\nCommunications in Statistics - Simulation and Computation\n\n\nGPAbin: unifying visualizations of multiple imputations for missing values\n2021\nCommunications in Statistics: Simulation and Computation\n\n\nA Simulation Study for the Identification of Missing Data Mechanisms Using Visualisation\n2021\nData Analysis and Rationality in a Complex World. IFCS 2019. Studies in Classification, Data Analysis, and Knowledge Organization\n\n\nA Simulation Study for the Identification of Missing Data Mechanisms Using Visualisation\n2021\nStudies in Classification, Data Analysis, and Knowledge Organization\n\n\nVisualising Incomplete Data with Subset Multiple Correspondence Analysis\n2018\nArchives of Data Science, Series A (Online First)\n\n\nInvestigating the Performance of a Variation of Multiple Correspondence Analysis for Multiple Imputation in Categorical Data Sets\n2017\nJournal of Classification\n\n\nInvestigating the Performance of a Variation of Multiple Correspondence Analysis for Multiple Imputation in Categorical Data Sets\n2017\nJournal of Classification\n\n\n\n\n\n\n\n\nThis list is automatically populated from orcid.org"
+    "text": "Title\nYear\nJournal\n\n\n\n\nVANTAGE: An open-source application for visualisation, navigation and analysis of video and ancillary time-series data in bio-logging studies\n2025\nMethods in Ecology and Evolution\n\n\nCOVID-19 among adults living with HIV: Correlates of mortality in a general population in a resource-limited setting\n2022\nmedRxiv\n\n\nCOVID-19 among adults living with HIV: correlates of mortality among public sector healthcare users in Western Cape, South Africa\nNA\nJournal of the International AIDS Society\n\n\n\n\n\n\n\n\nThis list is automatically populated from orcid.org"
   },
   {
     "objectID": "supervision.html",
@@ -124,5 +124,26 @@
     "title": "Supervision",
     "section": "Honours research projects",
     "text": "Honours research projects\n\n\n\n\n\n\n\n\n\nStudent\nTitle\nYear\n\n\n\n\n1\nLaylaa Jorge-Abrahams & Khethani Mugeri\nComparing Louvain and Leiden community detection performance across network topologies\n2025\n\n\n2\nMuneerah Harris\nInvestigating the Effects of Resampling on Highly Imbalanced Data\n2024\n\n\n3\nBilly Mbuyazi & Sanana Mwanawina\nPredictive Modelling For Early Identification of Students at Risk of Delayed Graduation\n2023\n\n\n4\nMaxine Norrie & Daniel Singer\nEngineering Features for Tennis Match Outcome Prediction in a Statistical Learning Framework\n2021\n\n\n5\nBridgette Mgidi & Alex Urban\nFeature Engineering and Supervised Machine Learning Methods in the Prediction of Professional Men's Tennis Matches\n2020\n\n\n6\nAdam Bresler & Luka Elliott\nEngineering Features for Tennis Match Outcome Prediction in a Statistical Learning Framework\n2020\n\n\n7\nJordan Lambis & Gianstelvio Radesich\nSimulation of a One-Day International Cricket Fixture\n2018\n\n\n8\nSean Soutar & Fabio Fehr\nText Content Classification on News Articles\n2018\n\n\n9\nJames Lloyd\nThe Classification of Galaxy Images Using Convolutional Neural Networks\n2017\n\n\n10\nPeter Ivey\nInvestigating the Effect of Batting Proficiency when Predicting the Winner of Curtailed T20I Cricket Matches\n2017\n\n\n11\nTherveshan Moodley\nIncorporating Player Ability in a T20I Predictive Model\n2016"
+  },
+  {
+    "objectID": "talks.html#international-conferences",
+    "href": "talks.html#international-conferences",
+    "title": "Presentations",
+    "section": "",
+    "text": "Date\nTitle\nEvent\nLocation\nDetails\nAuthor\n\n\n\n\n2025-07-07\nFeature Engineering for Tennis Match Outcome Prediction\nDSSV 2025\nSkukuza, South Africa\nInvited talk\nPresenter\n\n\n2019-07-02\nBlended Learning Introductory Statistics - Lessons from Five Years of Application at the University of Cape Town in Context of a Socioeconomically Diverse Student Body\n13th Annual International Conference on Mathematics & Statistics: Teaching, Theory & Applications\nAthens, Greece\nContributed talk\nPresenter\n\n\n2016-05-23\nA Blended Learning Approach to Teaching Introductory Statistics through Sakai\nOpen Apereo Conference\nNew York, US\nInvited talk\nPresenter\n\n\n2015-11-04\nTeaching Introductory Statistics to 1400 students using online Lessons\nSakai Virtual Conference\nOnline\nContributed talk\nPresenter"
+  },
+  {
+    "objectID": "talks.html#local-conferences",
+    "href": "talks.html#local-conferences",
+    "title": "Presentations",
+    "section": "Local conferences",
+    "text": "Local conferences\n\n\n\n\n\n\n\n\nDate\nTitle\nEvent\nLocation\nDetails\nAuthor\n\n\n\n\n2025-11-28\nSASA title\nSASA 2025\nVanderbijlpark at the Riverside Sun Hotel\nContributed talk\nPresenting author"
+  },
+  {
+    "objectID": "talks.html#seminars-and-workshops",
+    "href": "talks.html#seminars-and-workshops",
+    "title": "Presentations",
+    "section": "Seminars and workshops",
+    "text": "Seminars and workshops\n\n\n\n\n\n\n\n\nDate\nTitle\nEvent\nLocation\nDetails\n\n\n\n\n2017-02-15\nATLAS award winner: Teaching Introductory Statistics Using a Blended Mode of Instruction\nApereo Teaching & Learning Call\nOnline\nWebinar"
   }
 ]

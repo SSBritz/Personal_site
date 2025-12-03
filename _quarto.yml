@@ -18,11 +18,11 @@ website:
       - text: Supervision
         href: supervision.qmd
       - text: Talks
-        href: talks.qmd  
+        href: talks.qmd
+      - text: Publications
+        href: publications.qmd
       # - text: Blog posts
       #   href: blog.qmd
-      # - text: Publications
-      #  href: publications.qmd
     right:
       - icon: github
         href: https://github.com/      
