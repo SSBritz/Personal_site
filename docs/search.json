@@ -1,115 +1,59 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Stefan Streicher Britz",
+    "section": "",
+    "text": "Stefan Streicher Britz is a lecturer in the Department of Statistical Sciences at the University of Cape Town, and will now stop referring to himself in the third-person. These days I predominantly teach postgraduate courses on linear algebra, multivariate analysis theory, supervised/statistical learning and exploratory data analysis. My passion for teaching has not subsided one bit as the years have flown by, and I am perpetually grateful to be in a profession where one gets to positively influence so many lives.\nThrough postgraduate supervision I have experienced exposure to a wide variety of problems, including machine learning applications to various ecological and environmental problems, agriculture, sports, finance, astronomy, education, insurance, forensics, speech recognition, genetics, and more, as well as fields such as Natural Language Processing, Agent-Based Models and Network Analysis. My current research focus is on applied network analysis.\nOutside of academia, my main interests are cricket (watching), music (I’ve played drums for numerous bands over the years, currently just focused on Streicher), cricket (playing for Pinelands Cricket Club), Haedong Kumdo (in which I hold a second dan black belt), cricket (administration – vice-chairman of PCC), and just cricket in general.\n \n  \n   \n  \n    \n     \n  \n  \n    \n     \n  \n  \n     scholar\n  \n  \n     orcid"
+  },
+  {
     "objectID": "talks.html",
     "href": "talks.html",
     "title": "Presentations",
     "section": "",
-    "text": "Date\nTitle\nEvent\nLocation\nPresentation\nContribution\n\n\n\n\n2025-07-07\nFeature Engineering for Tennis Match Outcome Prediction\nDSSV 2025\nSkukuza, South Africa\nInvited talk\nPresenter\n\n\n2019-07-02\nBlended Learning Introductory Statistics - Lessons from Five Years of Application at the University of Cape Town in Context of a Socioeconomically Diverse Student Body\n13th Annual International Conference on Mathematics & Statistics: Teaching, Theory & Applications\nAthens, Greece\nContributed talk\nPresenter\n\n\n2016-05-23\nA Blended Learning Approach to Teaching Introductory Statistics through Sakai\nOpen Apereo Conference\nNew York, US\nInvited talk\nPresenter\n\n\n2015-11-04\nTeaching Introductory Statistics to 1400 students using online Lessons\nSakai Virtual Conference\nOnline\nContributed talk\nPresenter"
+    "text": "Date\nTitle\nEvent\nLocation\nPresentation\nContribution\n\n\n\n\n2025-07-07\nFeature Engineering for Tennis Match Outcome Prediction\nDSSV 2025\nSkukuza, South Africa\nInvited talk\nPresenting author\n\n\n2019-07-02\nBlended Learning Introductory Statistics - Lessons from Five Years of Application at the University of Cape Town in Context of a Socioeconomically Diverse Student Body\n13th Annual International Conference on Mathematics & Statistics: Teaching, Theory & Applications\nAthens, Greece\nContributed talk\nPresenting author\n\n\n2016-05-23\nA Blended Learning Approach to Teaching Introductory Statistics through Sakai\nOpen Apereo Conference\nNew York, US\nInvited talk\nPresenting author\n\n\n2015-11-04\nTeaching Introductory Statistics to 1400 students using online Lessons\nSakai Virtual Conference\nOnline\nContributed talk\nPresenting author"
   },
   {
     "objectID": "talks.html#international-conferences",
     "href": "talks.html#international-conferences",
     "title": "Presentations",
     "section": "",
-    "text": "Date\nTitle\nEvent\nLocation\nPresentation\nContribution\n\n\n\n\n2025-07-07\nFeature Engineering for Tennis Match Outcome Prediction\nDSSV 2025\nSkukuza, South Africa\nInvited talk\nPresenter\n\n\n2019-07-02\nBlended Learning Introductory Statistics - Lessons from Five Years of Application at the University of Cape Town in Context of a Socioeconomically Diverse Student Body\n13th Annual International Conference on Mathematics & Statistics: Teaching, Theory & Applications\nAthens, Greece\nContributed talk\nPresenter\n\n\n2016-05-23\nA Blended Learning Approach to Teaching Introductory Statistics through Sakai\nOpen Apereo Conference\nNew York, US\nInvited talk\nPresenter\n\n\n2015-11-04\nTeaching Introductory Statistics to 1400 students using online Lessons\nSakai Virtual Conference\nOnline\nContributed talk\nPresenter"
+    "text": "Date\nTitle\nEvent\nLocation\nPresentation\nContribution\n\n\n\n\n2025-07-07\nFeature Engineering for Tennis Match Outcome Prediction\nDSSV 2025\nSkukuza, South Africa\nInvited talk\nPresenting author\n\n\n2019-07-02\nBlended Learning Introductory Statistics - Lessons from Five Years of Application at the University of Cape Town in Context of a Socioeconomically Diverse Student Body\n13th Annual International Conference on Mathematics & Statistics: Teaching, Theory & Applications\nAthens, Greece\nContributed talk\nPresenting author\n\n\n2016-05-23\nA Blended Learning Approach to Teaching Introductory Statistics through Sakai\nOpen Apereo Conference\nNew York, US\nInvited talk\nPresenting author\n\n\n2015-11-04\nTeaching Introductory Statistics to 1400 students using online Lessons\nSakai Virtual Conference\nOnline\nContributed talk\nPresenting author"
   },
   {
     "objectID": "talks.html#local-conferences",
     "href": "talks.html#local-conferences",
     "title": "Presentations",
     "section": "Local conferences",
-    "text": "Local conferences\n\n\n\n\n\n\n\n\nDate\nTitle\nEvent\nLocation\nPresentation\nContribution\n\n\n\n\n2025-11-28\nSASA title\nSASA 2025\nVanderbijlpark at the Riverside Sun Hotel\nContributed talk\nPresenting author"
+    "text": "Local conferences\n\n\n\n\n\n\n\n\nDate\nTitle\nEvent\nHost\nPresentation\nContribution\n\n\n\n\n2025-11-28\nLacking confidence: The coverage, conservatism, and correction of simultaneous $T^2$ confidence intervals\nSASA 2025\nNWU (Vanderbijlpark)\nContributed talk\nPresenting author\n\n\n2025-11-26\nModelling Insurance Premiums for Risk Assessment Using Interpretable Machine Learning\nSASA 2025\nNWU (Vanderbijlpark)\nPoster\nCo-author\n\n\n2024-11-21\nNetwork Analysis and Disruption Simulation of a South African CIT Criminal Network\nSASA 2024\nUWC (Stellenbosch)\nContributed talk\nPresenting author\n\n\n2024-11-20\nAutomated analysis of penguin-borne videos using deep learning\nSASA 2024\nUWC (Stellenbosch)\nPoster\nCo-author\n\n\n2022-11-30\nFeature Engineering for Tennis Match Outcome Prediction\nSASA 2022\nSASA (George)\nContributed talk\nPresenting author\n\n\n2021-12-01\nMonitoring and mapping the critically endangered Clanwilliam cedar using aerial imagery and deep learning\nSASA 2021\nSU (Stellenbosch)\nContributed talk\nPresenting author\n\n\n2021-12-01\nAutomated quantification of hydraulic failure in plants using deep learning\nSASA 2021\nSU (Stellenbosch)\nContributed talk\nCo-author\n\n\n2018-11-29\nMatching a Bullet to a Gun: One-Shot Learning and Convolutional Siamese Neural Networks\nSASA 2018\nUNISA (Florida)\nContributed talk\nPresenting author\n\n\n2014-10-29\nOn-line teaching of Statistics\nSASA 2014\nRU (Makhanda)\nInvited talk\nPresenting author\n\n\n2013-06-28\nEffect of Prior Choice in Generalized-Gamma-t Hierarchical Model\nISBASA 2013\nRU (Makhanda)\nContributed talk\nPresenting author\n\n\n2012-11-07\nA Hierarchical Bayesian Model: Combining The Generalized Gamma And Generalized t-Distributions\nSASA 2012\nNMU (Gqeberha)\nContributed talk\nPresenting author\n\n\n2011-11-03\nApplication of GGam distribution to water data\nSASA 2011\nCSIR (Pretoria)\nContributed talk\nPresenting author\n\n\n2011-11-02\nApplication of the Hungarian algorithm in baseball team selection and assignment\nSASA 2011\nCSIR (Pretoria)\nContributed talk\nPresenting author"
   },
   {
     "objectID": "talks.html#seminars-and-workshops",
     "href": "talks.html#seminars-and-workshops",
     "title": "Presentations",
     "section": "Seminars and workshops",
-    "text": "Seminars and workshops\n\n\n\n\n\n\n\n\nDate\nTitle\nEvent\nLocation\nPresentation\n\n\n\n\n2017-02-15\nATLAS award winner: Teaching Introductory Statistics Using a Blended Mode of Instruction\nApereo Teaching & Learning Call\nOnline\nWebinar"
+    "text": "Seminars and workshops\n\n\n\n\n\n\n\n\nDate\nTitle\nEvent\nLocation\nPresentation\n\n\n\n\n2025-10-27\nThe KZN26: A CIT criminal network analysis\nDepartmental seminar\nUniversity of Cape Town\nSeminar\n\n\n2023-08-25\nIs gcForest-CS a viable alternative to Deep Learning for diseased cassava leaf image classification?\nDepartmental seminar\nStellenbosch University\nSeminar\n\n\n2023-07-31\nIs gcForest-CS a viable alternative to Deep Learning for diseased cassava leaf image classification?\nDepartmental seminar\nUniversity of Cape Town\nSeminar\n\n\n2019-08-16\nComputer vision applications: Cedar tree counting, GTA simulations and going ballistic(s)\nDepartmental seminar\nStellenbosch University\nSeminar\n\n\n2018-10-15\nMatching Bullets to Firearms with Siamese Convolutional Neural Networks: Literal One-Shot Learning\nDepartmental seminar\nUniversity of Cape Town\nSeminar\n\n\n2017-02-15\nATLAS award winner: Teaching Introductory Statistics Using a Blended Mode of Instruction\nApereo Teaching & Learning Call\nOnline\nWebinar\n\n\n2016-09-08\nAll Aboard the Analytics Train!\nHigh Performance Computing and Analytics Student Society\nUniversity of Cape Town\nInvited talk\n\n\n2012-03-02\nCalculating Water Level Probabilities for the Gariep Dam\nUFS Actuarial & Energy Workshop\nUniversity of the Free State\nContributed talk\n\n\n2011-07-27\nPredicting Monthly Inflows Into the Gariep Dam\nEskom Workshop\nNelson Mandela University\nContributed talk\n\n\n2011-03-17\nPredicting Monthly Inflows Into the Gariep Dam\nUFS Actuarial & Energy Workshop\nUniversity of the Free State\nContributed talk"
   },
   {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Title\nYear\nJournal\n\n\n\n\nVANTAGE: An open-source application for visualisation, navigation and analysis of video and ancillary time-series data in bio-logging studies\n2025\nMethods in Ecology and Evolution\n\n\nCOVID-19 among adults living with HIV: Correlates of mortality in a general population in a resource-limited setting\n2022\nmedRxiv\n\n\nCOVID-19 among adults living with HIV: correlates of mortality among public sector healthcare users in Western Cape, South Africa\nNA\nJournal of the International AIDS Society\n\n\n\n\n\n\n\n\nThis list is automatically populated from orcid.org"
+    "text": "Title\nYear\nJournal\n\n\n\n\nVANTAGE: An open-source application for visualisation, navigation and analysis of video and ancillary time-series data in bio-logging studies\n2025\nMethods in Ecology and Evolution\n\n\nCOVID-19 among adults living with HIV: correlates of mortality among public sector healthcare users in Western Cape, South Africa\n2023\nJournal of the International AIDS Society\n\n\nCOVID-19 among adults living with HIV: Correlates of mortality in a general population in a resource-limited setting\n2022\nmedRxiv\n\n\n\n\n\n\n\n\nThis list is automatically populated from orcid.org"
   },
   {
     "objectID": "publications.html#journal-articles",
     "href": "publications.html#journal-articles",
     "title": "Publications",
     "section": "",
-    "text": "Title\nYear\nJournal\n\n\n\n\nVANTAGE: An open-source application for visualisation, navigation and analysis of video and ancillary time-series data in bio-logging studies\n2025\nMethods in Ecology and Evolution\n\n\nCOVID-19 among adults living with HIV: Correlates of mortality in a general population in a resource-limited setting\n2022\nmedRxiv\n\n\nCOVID-19 among adults living with HIV: correlates of mortality among public sector healthcare users in Western Cape, South Africa\nNA\nJournal of the International AIDS Society\n\n\n\n\n\n\n\n\nThis list is automatically populated from orcid.org"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Stefan Streicher Britz",
-    "section": "",
-    "text": "Stefan Streicher Britz is a lecturer in the Department of Statistical Sciences at the University of Cape Town, and will now stop referring to himself in the third-person. These days I predominantly teach postgraduate courses on linear algebra, multivariate analysis theory, supervised/statistical learning and exploratory data analysis. My passion for teaching has not subsided one bit as the years have flown by, and I am perpetually grateful to be in a profession where one gets to positively influence so many lives.\nThrough postgraduate supervision I have been privileged to be exposed to a wide variety of problems, including machine learning applications to various ecological and environmental problems, agriculture, sports, finance, astronomy, education, insurance, forensics, speech recognition, genetics, and more, as well as fields such as Natural Language Processing, Agent-Based Models and Network Analysis. My current research focus is on applied network analysis.\nOutside of academia, my main interests are cricket (watching), music (I’ve played drums for numerous bands over the years, currently just focused on Streicher), cricket (playing for Pinelands Cricket Club), Haedong Kumdo (in which I hold a second dan black belt), cricket (administration – vice-chairman of PCC), and just cricket in general.\n \n  \n   \n  \n    \n     \n  \n  \n    \n     \n  \n  \n     scholar\n  \n  \n     orcid"
+    "text": "Title\nYear\nJournal\n\n\n\n\nVANTAGE: An open-source application for visualisation, navigation and analysis of video and ancillary time-series data in bio-logging studies\n2025\nMethods in Ecology and Evolution\n\n\nCOVID-19 among adults living with HIV: correlates of mortality among public sector healthcare users in Western Cape, South Africa\n2023\nJournal of the International AIDS Society\n\n\nCOVID-19 among adults living with HIV: Correlates of mortality in a general population in a resource-limited setting\n2022\nmedRxiv\n\n\n\n\n\n\n\n\nThis list is automatically populated from orcid.org"
   },
   {
     "objectID": "blog.html",
     "href": "blog.html",
     "title": "Stefan Britz",
     "section": "",
-    "text": "My first blog post\n\n\n\nR\n\nPresentations in Quarto\n\n\n\n\n\n\n\n\n\n25ece0ber 2025\n\n\nName Surname\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "education.html",
-    "href": "education.html",
-    "title": "Education",
-    "section": "",
-    "text": "Year\nDegree\nInstitution\n\n\n\n\nIn Progress\nPhD in Statistics\nUniversity of Cape Town, South Africa\n\n\n2013\nMSc in Mathematical Statistics (with distinction)\nUniversity of the Free State, South Africa\n\n\n2010\nBSc Hons. in Mathematical Statistics (with distinction)\nUniversity of the Free State, South Africa\n\n\n2009\nBSc Hons. Actuarial Science (with distinction)\nUniversity of the Free State, South Africa"
-  },
-  {
-    "objectID": "education.html#degrees",
-    "href": "education.html#degrees",
-    "title": "Education",
-    "section": "",
-    "text": "Year\nDegree\nInstitution\n\n\n\n\nIn Progress\nPhD in Statistics\nUniversity of Cape Town, South Africa\n\n\n2013\nMSc in Mathematical Statistics (with distinction)\nUniversity of the Free State, South Africa\n\n\n2010\nBSc Hons. in Mathematical Statistics (with distinction)\nUniversity of the Free State, South Africa\n\n\n2009\nBSc Hons. Actuarial Science (with distinction)\nUniversity of the Free State, South Africa"
-  },
-  {
-    "objectID": "education.html#positions",
-    "href": "education.html#positions",
-    "title": "Education",
-    "section": "Positions",
-    "text": "Positions\n\n\n\n\n\n\n\n\nYear\nPosition\nInstitution\n\n\n\n\n2014 - current\nLecturer\nUniversity of Cape Town\n\n\n2010 - 2013\nAssistant Lecturer & Research Assistant\nUniversity of the Free State"
-  },
-  {
-    "objectID": "education.html#awards",
-    "href": "education.html#awards",
-    "title": "Education",
-    "section": "Awards",
-    "text": "Awards\n\nApereo Teaching and Learning Award (ATLAS), 2016\nThis international award was received for the entry: Teaching Introductory Statistics using a Blended Mode of Instruction at the University of Cape Town.\nUCT Science Faculty Emerging Teacher Award, 2020\nThis faculty prize was awarded biennially to one recipient.\nSASA Honours Project Competition, 2018 –- Supervision of first place winner\nJames Lloyd for his entry: Classification of Galaxy Morphologies using Convolutional Neural Networks.\nSASA Honours Project Competition, 2022 –- Supervision of second place winner\nMaxine Norrie & Daniel Singer for their entry: Engineering Features for Tennis Match Outcome Prediction in a Statistical Learning Framework."
-  },
-  {
-    "objectID": "posts/2025-11-25-my-first-blog-post/index.html",
-    "href": "posts/2025-11-25-my-first-blog-post/index.html",
-    "title": "My first blog post",
-    "section": "",
-    "text": "Look at all the impressive skills I have acquired in the MDAG 2025 workshop."
-  },
-  {
-    "objectID": "posts/2025-11-25-my-first-blog-post/index.html#motivation",
-    "href": "posts/2025-11-25-my-first-blog-post/index.html#motivation",
-    "title": "My first blog post",
-    "section": "",
-    "text": "Look at all the impressive skills I have acquired in the MDAG 2025 workshop."
-  },
-  {
-    "objectID": "posts/2025-11-25-my-first-blog-post/index.html#about-the-example-illustrating-the-classic-iris-data-set-with-biplotez",
-    "href": "posts/2025-11-25-my-first-blog-post/index.html#about-the-example-illustrating-the-classic-iris-data-set-with-biplotez",
-    "title": "My first blog post",
-    "section": "About the example: Illustrating the classic iris data set with biplotEZ",
-    "text": "About the example: Illustrating the classic iris data set with biplotEZ\n\nlibrary(biplotEZ)\n\nWelcome to biplotEZ! \nThis package is used to construct biplots \nRun ?biplot or vignette() for more information\n\n\n\nAttaching package: 'biplotEZ'\n\n\nThe following object is masked from 'package:stats':\n\n    biplot\n\nbp &lt;- biplot(iris,scale=TRUE) |&gt; \n  PCA(group.aes=iris$Species) |&gt; \n  axes(col=\"black\") |&gt; \n  samples(col=c(\"pink\",\"orange\",\"firebrick3\"),opacity = 0.7) |&gt;\n  plot()"
-  },
-  {
-    "objectID": "posts/2025-11-25-my-first-blog-post/index.html#next",
-    "href": "posts/2025-11-25-my-first-blog-post/index.html#next",
-    "title": "My first blog post",
-    "section": "Next",
-    "text": "Next\nStay tuned for some new blog posts."
+    "text": "No matching items"
   },
   {
     "objectID": "supervision.html",
@@ -138,5 +82,33 @@
     "title": "Supervision",
     "section": "Honours research projects",
     "text": "Honours research projects\n\n\n\n\n\n\n\n\n\nStudent\nTitle\nYear\n\n\n\n\n1\nLaylaa Jorge-Abrahams & Khethani Mugeri\nComparing Louvain and Leiden community detection performance across network topologies\n2025\n\n\n2\nMuneerah Harris\nInvestigating the Effects of Resampling on Highly Imbalanced Data\n2024\n\n\n3\nBilly Mbuyazi & Sanana Mwanawina\nPredictive Modelling For Early Identification of Students at Risk of Delayed Graduation\n2023\n\n\n4\nMaxine Norrie & Daniel Singer\nEngineering Features for Tennis Match Outcome Prediction in a Statistical Learning Framework\n2021\n\n\n5\nBridgette Mgidi & Alex Urban\nFeature Engineering and Supervised Machine Learning Methods in the Prediction of Professional Men's Tennis Matches\n2020\n\n\n6\nAdam Bresler & Luka Elliott\nEngineering Features for Tennis Match Outcome Prediction in a Statistical Learning Framework\n2020\n\n\n7\nJordan Lambis & Gianstelvio Radesich\nSimulation of a One-Day International Cricket Fixture\n2018\n\n\n8\nSean Soutar & Fabio Fehr\nText Content Classification on News Articles\n2018\n\n\n9\nJames Lloyd\nThe Classification of Galaxy Images Using Convolutional Neural Networks\n2017\n\n\n10\nPeter Ivey\nInvestigating the Effect of Batting Proficiency when Predicting the Winner of Curtailed T20I Cricket Matches\n2017\n\n\n11\nTherveshan Moodley\nIncorporating Player Ability in a T20I Predictive Model\n2016"
+  },
+  {
+    "objectID": "education.html",
+    "href": "education.html",
+    "title": "Education and Awards",
+    "section": "",
+    "text": "Year\nDegree\nInstitution\n\n\n\n\nIn Progress\nPhD in Statistics\nUniversity of Cape Town, South Africa\n\n\n2013\nMSc in Mathematical Statistics (with distinction)\nUniversity of the Free State, South Africa\n\n\n2010\nBSc Hons. in Mathematical Statistics (with distinction)\nUniversity of the Free State, South Africa\n\n\n2009\nBSc Actuarial Science (with distinction)\nUniversity of the Free State, South Africa"
+  },
+  {
+    "objectID": "education.html#degrees",
+    "href": "education.html#degrees",
+    "title": "Education and Awards",
+    "section": "",
+    "text": "Year\nDegree\nInstitution\n\n\n\n\nIn Progress\nPhD in Statistics\nUniversity of Cape Town, South Africa\n\n\n2013\nMSc in Mathematical Statistics (with distinction)\nUniversity of the Free State, South Africa\n\n\n2010\nBSc Hons. in Mathematical Statistics (with distinction)\nUniversity of the Free State, South Africa\n\n\n2009\nBSc Actuarial Science (with distinction)\nUniversity of the Free State, South Africa"
+  },
+  {
+    "objectID": "education.html#positions",
+    "href": "education.html#positions",
+    "title": "Education and Awards",
+    "section": "Positions",
+    "text": "Positions\n\n\n\n\n\n\n\n\nYear\nPosition\nInstitution\n\n\n\n\n2014 - current\nLecturer\nUniversity of Cape Town\n\n\n2010 - 2013\nAssistant Lecturer & Research Assistant\nUniversity of the Free State"
+  },
+  {
+    "objectID": "education.html#awards",
+    "href": "education.html#awards",
+    "title": "Education and Awards",
+    "section": "Awards",
+    "text": "Awards\n\nUCT Science Faculty Emerging Teacher Award, 2020\nThis faculty prize was awarded biennially to one recipient.\nApereo Teaching and Learning Award (ATLAS), 2016\nThis international award was received for the entry: Teaching Introductory Statistics using a Blended Mode of Instruction at the University of Cape Town.\nSASA Honours Project Competition, 2022 –- Supervision of second place winner\nMaxine Norrie & Daniel Singer for their entry: Engineering Features for Tennis Match Outcome Prediction in a Statistical Learning Framework.\nSASA Honours Project Competition, 2018 –- Supervision of first place winner\nJames Lloyd for his entry: Classification of Galaxy Morphologies using Convolutional Neural Networks."
   }
 ]

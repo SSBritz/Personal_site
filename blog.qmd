@@ -1,5 +1,5 @@
 ---
-editor: visual
+#editor: visual
 listing:
   contents: posts
   sort: "date desc"

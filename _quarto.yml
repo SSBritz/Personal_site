@@ -2,10 +2,12 @@ project:
   type: website
   output-dir: docs
   resources: files
+  render: 
+    - '*.qmd' #Prevent it from rendering everything under posts
 
 website:
   title: "Stefan Britz"
-  favicon: logo.png
+  favicon: logo.ico
   site-url: https://github.com/SSBritz/Personal_site
   navbar:
     background: primary
@@ -13,7 +15,7 @@ website:
     left:
       - text: Home
         href: index.qmd
-      - text: Education
+      - text: Education and Awards
         href: education.qmd
       - text: Supervision
         href: supervision.qmd

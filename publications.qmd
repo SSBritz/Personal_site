@@ -16,13 +16,15 @@ title: "Publications"
 #b
 library(rorcid)
 library(dplyr)
-b <- works("0000-0002-9244-1684")
+library(stringr)
+b <- works("0000-0002-9244-1684") |>
+  as_tibble() |>
+  filter(!is.na(url.value))
 pubs <- tibble(Title = b$title.title.value, 
                Year = b$`publication-date.year.value`,
                Journal = b$`journal-title.value`,
                doi = b$url.value) |>
   mutate(Title = str_replace_all(Title, "[-–—‐]", "-")) |>
-  distinct(Title, .keep_all = T) |>
   arrange(desc(Year)) 
 save(pubs, file="pubs.rda")
 ```
@@ -35,7 +37,6 @@ save(pubs, file="pubs.rda")
 library(dplyr)
 library(glue)
 library(gt)
-library(stringr)
 load("pubs.rda")
 pubs <- pubs |>
   #mutate(title = str_to_title(title)) |> # doesn't quite work nicely
@@ -50,7 +51,7 @@ pubs |>
                  Year ~ px(50),
                  Journal ~ px(200)) |>
   cols_align("left")
-  
+
 #NOTE: Add arxiv profile [arxiv](https://arxiv.org/).
 ```
 
