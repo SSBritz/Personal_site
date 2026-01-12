@@ -1,5 +1,5 @@
 ---
-title: "Education"
+title: "Education and Awards"
 ---
 
 ## Degrees
@@ -9,7 +9,7 @@ title: "Education"
 | In Progress | PhD in Statistics | University of Cape Town, South Africa |
 | 2013 | MSc in Mathematical Statistics (with distinction) | University of the Free State, South Africa |
 | 2010 | BSc Hons. in Mathematical Statistics (with distinction) | University of the Free State, South Africa |
-| 2009 | BSc Hons. Actuarial Science (with distinction) | University of the Free State, South Africa |
+| 2009 | BSc Actuarial Science (with distinction) | University of the Free State, South Africa |
 
 ## Positions
 
@@ -20,14 +20,14 @@ title: "Education"
 
 ## Awards
 
--   Apereo Teaching and Learning Award (ATLAS), 2016\
-    This international award was received for the entry: *Teaching Introductory Statistics using a Blended Mode of Instruction at the University of Cape Town.*
-
 -   UCT Science Faculty Emerging Teacher Award, 2020\
     This faculty prize was awarded biennially to one recipient.
 
--   SASA Honours Project Competition, 2018 –- Supervision of first place winner\
-    James Lloyd for his entry: *Classification of Galaxy Morphologies using Convolutional Neural Networks.*
+-   Apereo Teaching and Learning Award (ATLAS), 2016\
+    This international award was received for the entry: *Teaching Introductory Statistics using a Blended Mode of Instruction at the University of Cape Town.*
 
 -   SASA Honours Project Competition, 2022 –- Supervision of second place winner\
     Maxine Norrie & Daniel Singer for their entry: *Engineering Features for Tennis Match Outcome Prediction in a Statistical Learning Framework.*
+
+-   SASA Honours Project Competition, 2018 –- Supervision of first place winner\
+    James Lloyd for his entry: *Classification of Galaxy Morphologies using Convolutional Neural Networks.*
