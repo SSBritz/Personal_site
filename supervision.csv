@@ -1,11 +1,11 @@
 Student,Title,Role,Start,Graduated,Type
-Tagen de Wet,Detecting Prey-Capture Events in Animal-Borne Videos using Deep Neural Networks,Main supervisor,2023,2026 [intended],full
+Tagen de Wet,Detecting Prey-Capture Events in Animal-Borne Videos using Deep Neural Networks,Main supervisor,2023,2026,full
 Don Gwese,Modeling the Maturing Brain: The Influence of Electrophysiological Features on Learning in Biophysical RNNs,Main supervisor,2026,2027 [intended],minor
 Nabil Patel,Empirical Scaling Laws for QLoRA Fine-Tuning in Specialised Multiclass Text Classification: A Transfer Pricing Benchmarking Case Study,Main supervisor,2026,2027 [intended],minor
-Tsapang Mashego,Modeling Insurance Premiums for Risk Assessment using Interpretable Machine Learning,Main supervisor,2025,2026 [intended],minor
-Kelly-Robin Singh,Feature Engineering for a Gene-Specific Machine Learning Approach to Variant Annotation of PCDH19-Related Epilepsy,Main supervisor,2024,2026 [intended],minor
-Tanweer Nujjoo,Forecasting Spatial-Temporal Wildfire Susceptibility on the Table Mountain National Park,Co-supervisor,2024,2026 [intended],minor
+Tsapang Mashego,Modeling Insurance Premiums for Risk Assessment using Interpretable Machine Learning,Main supervisor,2025,2026,minor
+Kelly-Robin Singh,Feature Engineering for a Gene-Specific Machine Learning Approach to Variant Annotation of PCDH19-Related Epilepsy,Main supervisor,2024,2026,minor
 Puja Pande,Shining Light on Rooftop Solar Adoption: Using Agent-Based Modelling to Investigate Key Drivers in Cape Town,Main supervisor,2024,2026,minor
+Tanweer Nujjoo,Forecasting Spatial-Temporal Wildfire Susceptibility on the Table Mountain National Park,Co-supervisor,2024,2026 [intended],minor
 David Snaddon,The Structure and Evolution of the African Air Transport Network,Co-supervisor,2024,2025,minor
 Jonathan Harrison,Coastal Water Level Prediction: A Comparative Study of Statistical and Machine Learning Techniques for Time Series Forecasting,Co-supervisor,2024,2025,minor
 Daniel Charters,Virtual Try-on with Garment Extraction using Generative Adversarial Networks,Main supervisor,2023,2024,minor
